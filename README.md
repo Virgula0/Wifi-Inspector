@@ -37,6 +37,8 @@ Anyway after a scan with wifi inspector you can save all results in a txt file.
 
  ![img](https://i.imgur.com/3ayW5FZ.gif)
  
+ ![img](https://i.imgur.com/GhpAOUn.png)
+ 
  ### Other
  
  If you don't wnat to compile the source check out for releases: https://github.com/Virgula0/Wifi-Inspector/releases
