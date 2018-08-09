@@ -1,4 +1,6 @@
- ``` __          ___  __ _   _____                           _             
+
+
+``` __          ___  __ _   _____                           _             
  \ \        / (_)/ _(_) |_   _|                         | |            
   \ \  /\  / / _| |_ _    | |  _ __  ___ _ __   ___  ___| |_ ___  _ __ 
    \ \/  \/ / | |  _| |   | | | '_ \/ __| '_ \ / _ \/ __| __/ _ \| '__|
@@ -34,3 +36,11 @@ Anyway after a scan with wifi inspector you can save all results in a txt file.
 ### Demonstration
 
  ![img](https://i.imgur.com/3ayW5FZ.gif)
+ 
+ ### Other
+ 
+ If you don't wnat to compile the source check out for releases: https://github.com/Virgula0/Wifi-Inspector/releases
+ 
+ ### Author
+ 
+ Coded by Virgula August 2018
