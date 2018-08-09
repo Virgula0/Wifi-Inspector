@@ -1,4 +1,4 @@
-by ``` __          ___  __ _   _____                           _             
+ ``` __          ___  __ _   _____                           _             
  \ \        / (_)/ _(_) |_   _|                         | |            
   \ \  /\  / / _| |_ _    | |  _ __  ___ _ __   ___  ___| |_ ___  _ __ 
    \ \/  \/ / | |  _| |   | | | '_ \/ __| '_ \ / _ \/ __| __/ _ \| '__|
@@ -9,7 +9,7 @@ by ``` __          ___  __ _   _____                           _
 ```
 # Wifi-Inspector
 Easy tool which check automatically for memorized networks and their passwords on your windows computer.
-Find wifi passwords saved in your computer clicking only 3 times!
+Find wifi passwords saved in your computer by clicking only 3 times!
 ## Features
 
 This is a very simple tool made to show how many netowrks are currently saved on your computer showing also their password in clear format. All happens in an automatically way but you can check manually in order to have the same result , by typing in cmd only 2 commands!
