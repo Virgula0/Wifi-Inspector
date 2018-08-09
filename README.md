@@ -13,6 +13,7 @@ Find wifi passwords saved in your computer by clicking only 3 times!
 ## Features
 
 This is a very simple tool made to show how many netowrks are currently saved on your computer showing also their password in clear format. All happens automatically but you can check manually in order to have the same result by typing in cmd only 2 commands!
+Only few kbs of app!
 
 These are :
 
