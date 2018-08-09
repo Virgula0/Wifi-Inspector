@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wifi_Inspector", "Wifi_Inspector\Wifi_Inspector.csproj", "{FE36769E-50C5-4D61-8D1B-2A577E1673C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE36769E-50C5-4D61-8D1B-2A577E1673C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE36769E-50C5-4D61-8D1B-2A577E1673C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE36769E-50C5-4D61-8D1B-2A577E1673C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE36769E-50C5-4D61-8D1B-2A577E1673C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

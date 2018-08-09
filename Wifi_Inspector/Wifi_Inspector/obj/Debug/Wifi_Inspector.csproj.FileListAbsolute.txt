@@ -1,0 +1,7 @@
+C:\Users\Angelo\documents\visual studio 2017\Projects\Wifi_Inspector\Wifi_Inspector\bin\Debug\Wifi_Inspector.exe
+C:\Users\Angelo\documents\visual studio 2017\Projects\Wifi_Inspector\Wifi_Inspector\bin\Debug\Wifi_Inspector.pdb
+C:\Users\Angelo\documents\visual studio 2017\Projects\Wifi_Inspector\Wifi_Inspector\obj\Debug\Wifi_Inspector.Form1.resources
+C:\Users\Angelo\documents\visual studio 2017\Projects\Wifi_Inspector\Wifi_Inspector\obj\Debug\Wifi_Inspector.Properties.Resources.resources
+C:\Users\Angelo\documents\visual studio 2017\Projects\Wifi_Inspector\Wifi_Inspector\obj\Debug\Wifi_Inspector.csproj.GenerateResource.Cache
+C:\Users\Angelo\documents\visual studio 2017\Projects\Wifi_Inspector\Wifi_Inspector\obj\Debug\Wifi_Inspector.exe
+C:\Users\Angelo\documents\visual studio 2017\Projects\Wifi_Inspector\Wifi_Inspector\obj\Debug\Wifi_Inspector.pdb
