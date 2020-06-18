@@ -10,7 +10,7 @@
                                         |_|                            
 ```
 # Wifi-Inspector
-Easy tool which check automatically for memorized networks and their passwords on your windows computer.
+Easy tool which check automatically for memorized networks and their passwords on your windows computer without having administrative privileges.
 Find wifi passwords saved in your computer by clicking only 3 times!
 ## Features
 
